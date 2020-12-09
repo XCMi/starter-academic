@@ -25,4 +25,4 @@ design:
     text_color_light: true
 ---
 
-This is a platform for early-career researchers across the globe to exchange ideas and promote potential collaborations in the fundamental study and propulsion-related applications of detonations.
+This is a forum for early-career researchers across the globe to *exchange ideas* and *promote potential collaborations* in the fundamental study and propulsion-related applications of detonations. Due to the unprecedented situation of the COVID-19 pandemic, we have lost the opportunities to meet each other in person at international conferences this year. We hope that this forum will be a platform for all of the young detonation researchers to keep in touch and make connections with their like-minded peers.
