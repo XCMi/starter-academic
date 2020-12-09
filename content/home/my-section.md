@@ -10,10 +10,10 @@ headless: true
 weight: 1
 
 # Section title
-title: Hello
+title: The Young Researchers' Forum on Detonation: 
 
 # Section subtitle
-subtitle:
+subtitle: From Fundamentals to Applications
 
 # Section design
 design:
