@@ -13,7 +13,7 @@ weight: 1
 title: "The Young Researchers' Forum on Detonation:"
 
 # Section subtitle
-subtitle:
+subtitle: "From Fundamentals to Applications"
 
 # Section design
 design:
@@ -25,4 +25,4 @@ design:
     text_color_light: true
 ---
 
-Add any content to the body of the section here.
+This is a platform for early-career researchers across the globe to exchange ideas and promote potential collaborations in the fundamental study and propulsion-related applications of detonations.
