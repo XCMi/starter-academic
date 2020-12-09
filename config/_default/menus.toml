@@ -13,24 +13,24 @@
 #  url = "#posts"
 #  weight = 20
 
-[[main]]
-  name = "Research"
-  url = "#Research"
-  weight = 30
+# [[main]]
+#   name = "Research"
+#   url = "#Research"
+#   weight = 30
 
-[[main]]
-  name = "Publications"
-  url = "#featured"
-  weight = 40
+# [[main]]
+#   name = "Publications"
+#   url = "#featured"
+#   weight = 40
 
 [[main]]
   name = "Contact"
-  url = "#contact"
-  weight = 60
+  url = "Contact/"
+  weight = 2
   
 [[main]]
-  name = "My Widget Page"  # Title of the link.
-  url = "landing/"  # Widget Page folder name.
+  name = "Events"  # Title of the link.
+  url = "Events/"  # Widget Page folder name.
   weight = 2  # Position of the link in the navigation bar.
 
 # Link to a PDF of your resume/CV from the menu.
