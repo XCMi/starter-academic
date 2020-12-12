@@ -10,7 +10,7 @@ headless: true
 weight: 1
 
 # Section title
-title: "The Young Researchers' Forum on Detonation BBB:"
+title: "The Young Researchers' Forum on Detonation CCC:"
 
 # Section subtitle
 subtitle: "From Fundamentals to Applications"
