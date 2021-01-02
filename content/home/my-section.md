@@ -27,17 +27,27 @@ design:
 
 This is a forum for early-career researchers across the globe to *exchange ideas* and *promote potential collaborations* in the fundamental study and propulsion-related applications of detonations. Due to the unprecedented situation of the COVID-19 pandemic, we have lost the opportunities to meet each other in person at international conferences this year. We hope that this forum will be a platform for all of the young detonation researchers to keep in touch and make connections with their like-minded peers.
 
-{{< highlight html >}}
-*Next talk:*
+---
+# Season 2: #
 
-Time: Dec. 14th (Monday), 2020
+Fourteen speakers have kindly confirmed their interest in sharing us their impressive work on various topics of detonation science, ranging from fundamentals to propulsion-related applications, via both experimental and computational paths.
 
-8:30 am(EST), 7:30 am (CST), 5:30 am (PST), 9:30 pm (China), 2:30 pm (Paris, GMT+1)
+The exact date and time of the talks will be posted a week before the presentation day.
 
-*Hongxia Yang*. Dynamic of cellular flame deformation and subsequent DDT mechanism after the head-on interactions with shock waves.
+Date | Speaker | Affiliation
+---  | ------- | -----------
+Jan. 17-23	|	Mihn Bau Luong	| 	Clean Combustion Research Center, KAUST, Saudi Arabia
+Jan. 24-30	|	Josué Melguizo-Gavilanes	|	P Prime Institute, Poitier, France
+Jan. 31-Feb. 6	|	Yaroslava Poroshina	|	Moscow Institute of Physics and Technology, Russia
+Feb. 7-13	|	Pavel Utkin	|	Moscow Institute of Physics and Technology, Russia
+Feb. 17-20	|	Wenhu Han	|	Beijing Institute of Technology, China
+Feb. 21-27	|	Karl Chatelain	|	Clean Combustion Research Center, KAUST, Saudi Arabia
+Feb. 28-Mar. 6	|	James Braun	|	Perdue University, USA
+Mar. 7-13	|	Sai Sandeep Dammati	|	Texas A&M University, USA
+Mar. 14-20	|	Yuan Wang	|	Institute of Applied Physics and Computational Mathematics, China
+Mar. 21-27	|	Omar Dounia	|	CERFACS, France
+Mar. 28-Apr. 3	|	Huangwei Zhang	|	National University of Singapore, Singapore
+Apr. 4-10	|	Myles Bohon	|	Technische Universität Berlin, Germany
+Apr. 11-17	|	Hiroaki Watanabe	|	Nagoya University, Japan
+Apr. 18-24	|	Aliou Sow	| University of Ottawa, Canada
 
-Abstract:
-
-The problem of shock flame interactions from both burnt gas to unburnt gas and unburnt gas to burnt gas is studied in two Hele-Shaw type apparatus. Following the passage of a spherical shock from the burnt gas to the unburnt gas at ambient condition in a vertically oriented Hele-Shaw cell, the flame cusps go through a process of compression, elongation and reduction. Whereas subsequent to the interaction of weak shocks with the cellular flame from the unburnt gas to the burnt gas in the Hele-Shaw shock tube configuration, theflame cusps of the mixture of stoichiometric hydrogen-air with initial pressures below 0.2 atm are flattened and reversed backwards into the burnt gas with a modest flame area increase consistent with Richtmyer-Meshkov deformation of an inert interface. The reshock of the reversed flame, however, is able to rapidly form a detonation wave. The DDT mechanism, which turn out to be extremely efficient for a weak shock interacting with a finger flame in a narrow channel, relies primarily on the straining of the flame shape into an elongated alligator flame maintained by the anchoring mechanism in a bifurcated lambda shock due to boundary layers. 
-
-{{< /highlight >}}
