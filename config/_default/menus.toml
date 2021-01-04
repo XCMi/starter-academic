@@ -16,13 +16,13 @@
   
 [[main]]
   name = "Season 1"  
-  url = "events/#season1"  
+  url = "#season1"  
   parent = "Events"
   weight = 20  
   
 [[main]]
   name = "Season 2"  
-  url = "events/#season2"  
+  url = "#season2"  
   parent = "Events"
   weight = 20  
 
