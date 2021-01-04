@@ -7,7 +7,7 @@ widget: blank
 headless: true
 
 # Order that this section appears on the page.
-weight: 130
+weight: 1
 
 title: Season 1
 subtitle:
