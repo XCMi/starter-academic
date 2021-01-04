@@ -17,14 +17,12 @@
 [[main]]
   name = "Season 1"  
   url = "Events/#Season1"  
-  identifier = "Season 1 Talks"
   parent = "Events"
   weight = 20  
   
 [[main]]
   name = "Season 2"  
   url = "Events/#Season2"  
-  identifier = "Season 2 Talks"
   parent = "Events"
   weight = 20  
 
