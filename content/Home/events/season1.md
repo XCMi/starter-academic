@@ -21,7 +21,7 @@ design:
     text_color_light: true
 ---
 
-# Episode 1: #
+# Episode 1 #
 
 # {{< youtube id="1zD0tVoUb10" >}}
 
